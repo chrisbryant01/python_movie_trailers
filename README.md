@@ -9,5 +9,7 @@ Navigate to project and run:
 <code>
 py entertainment_center.py
 </code>
+
+<br>
  
-  -Will overwrite / create new fresh_tomatoes.html file which can be used to edit any html within the fresh_tomatoes.py file. 
+ #### This will overwrite / create new fresh_tomatoes.html file which can be used to edit any html within the fresh_tomatoes.py file. 
