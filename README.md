@@ -4,7 +4,7 @@ This program is to create and display a dynamic web-page of favorite movie title
 
 ### Build/Run
 
-Navigate to project and, in the terminal run entertainment_center.py using Python, i.e.:
+Navigate to project and, in the terminal run entertainment_center.py using Python:
 
 <code>
 py entertainment_center.py
