@@ -10,6 +10,6 @@ Navigate to project and run:
 py entertainment_center.py
 </code>
 
-<br>
+<br><br>
  
- <i>This will overwrite / create new fresh_tomatoes.html file which can be used to edit any html within the fresh_tomatoes.py file. </i>
+ <p><i>This will overwrite / create new fresh_tomatoes.html file which can be used to edit any html within the fresh_tomatoes.py file. </i><p>
