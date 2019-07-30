@@ -2,7 +2,7 @@
 This program is to create and display a dynamic web-page of favorite movie titles, information, artwork, trailers, etc.
 
 
-### How to Build/Run
+### Build/Run
 
 Navigate to project and run:
 
